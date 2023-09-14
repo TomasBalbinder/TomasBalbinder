@@ -10,7 +10,7 @@ I am Tomáš and I am a passionate IT and programming enthusiast. In 2.5 years I
 * 🖥️  See my portfolio at [Blog](https://snowkillcz.pythonanywhere.com/)
 * 🖥️  See my portfolio at [Assignment-book](http://assignment-book1.onrender.com/)
 * 🧠  I'm learning advanced techniques from the book - Django 4 By Example, Pygame library.
-* 🤝  I'm open to collaborating on all types of projects, I like to learn something new, preferably in the field of web applications or game developing.
+* 🤝  I'm open to collaborating on all types of projects, I like to learn something new, preferably in the field of web applications or game development.
 
 ### Skills
 
